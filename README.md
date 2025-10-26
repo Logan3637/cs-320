@@ -1,2 +1,12 @@
 # cs-320
 cs320 portfolio submission
+
+
+#How can I ensure that my code, program, or software is functional and secure?
+//In terms of this, and every, project we just test everything. You run it to make sure it functions in a generic simple version. Then you test the fringe, edge, or blatently wrong to make sure it runs well, as well as fails correctly. You use built in tools to help debug any base coding errors and failure errors. You could also just do some good old fashion manual personal checking from colleagues or classmates. For security, make sure everything is up to date as far as libraries, import types. Force user input to be specific like type length etc before using it to cause more lapses in the program. Always limit access, RBAC following the principle of least privelege.
+
+#How do I interpret user needs and incorporate them into a program?
+Interpretation is going to come from the person who is giving us the info whether its from the user or the project owner. We would take feedback by the users if its an already launched product. If it's not we would get some requirements and ask questions. Dive into clarity thorugh clarifying questions. You want a place for them to enter their username, should it be at the top? its own page when they click it? should the username be a specific datatype and length. Clarify the needs with functional and nonfunctional with questions. Does it need to be able to add and remove things from users side? Should it respond within 3 seconds or save certain info differently? clarifying questiosn will always get you the needs, and implementing them with iterative building to continue the feedback loop is how you get the needs and make sure you nail it. 
+
+#How do I approach designing software?
+First I look at it in the lense of what am I doing or supposed to do? we ask those questiosn from the previous answer to clarify what I am to do, How it is to be done, what it is going to do, and what problem am I trying to help solve. Time sensitivy and limitations would be roughly sketched out here. Build a layout of the path we plan to take with some sort of flow. PSeudocode or diagrams have been biult into my routine from the previous class, mainly burndown charts and UML diagrams to see the progression with a goal in mind. Start coding and test each piece individually while we are coding to stop any bugs or errors early. Then combine the pieces and test together. Finally do a client review production, and setup the same steps 1-5 of the next iteration.  
